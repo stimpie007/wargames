@@ -1,7 +1,7 @@
 # wargames
 A list of freely available training resources to practise all kinds of security.
 
-· Attack-Defense - https://attackdefense.com[](https://bancocn.com)  
+· Attack-Defense - https://attackdefense.com
 · Buffer Overflow Labs - https://github.com/CyberSecurityUP/Buffer-Overflow-Labs  
 · CTF Komodo Security - https://ctf.komodosec.com  
 · CryptoHack - https://cryptohack.org/  
@@ -14,13 +14,13 @@ A list of freely available training resources to practise all kinds of security.
 · Hackthis - https://www.hackthis.co.uk  
 · Hacksplaining - https://defendtheweb.net/  
 · Hacker101 - https://ctf.hacker101.com  
-· Hacking-Lab - [https://hacking-lab.com/[](https://immersivelabs.com)](https://hacking-lab.com/%5B%5D%28https://immersivelabs.com%29 "https://hacking-lab.com/%5B%5D(https://immersivelabs.com)")  
+· Hacking-Lab - https://hacking-lab.com/
 · NewbieContest - https://www.newbiecontest.org/  
-· OverTheWire - http://overthewire.org[](https://lnkd.in/esq9Yuv5)  
-· Pentestlab - https://pentesterlab.com[](https://lnkd.in/e6wVANYd)  
+· OverTheWire - http://overthewire.org
+· Pentestlab - https://pentesterlab.com
 · PentestIT LAB - https://lab.pentestit.ru  
-· PicoCTF - https://picoctf.com[](https://lnkd.in/eMEwBJzn)  
-· Root-Me - https://www.root-me.org[](http://rootinjail.com)  
+· PicoCTF - https://picoctf.com
+· Root-Me - https://www.root-me.org
 · SANS Challenger - https://www.holidayhackchallenge.com/past-challenges/  
 · SmashTheStack - https://www.smashthestack.org/  
 · The Cryptopals Crypto Challenges - https://cryptopals.com  
